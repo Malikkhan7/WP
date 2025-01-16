@@ -46,9 +46,9 @@
 
 ============================================
 
-[~] Author  : AL3X KH4N 
+[~] Author  : SAHIL KH4N 
 
-[~] GitHub  : KHAN ALEX
+[~] GitHub  : KHAN SAHIL
 
 [~] Tool  : Automatic WhatsApp Massage Sender
 
@@ -218,7 +218,7 @@
 
             console.log(`${green}Now Start Message Sending.......${reset}`);
 
-            console.log('    [ =============== MR AL3X HERE =============== ]');
+            console.log('    [ =============== MR MAFIA HERE =============== ]');
 
             console.log('');
 
