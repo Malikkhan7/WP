@@ -46,9 +46,9 @@
 
 ============================================
 
-[~] Author  : SAHIL KH4N 
+[~] Author  : AL3X KH4N 
 
-[~] GitHub  : KHAN SAHIL
+[~] GitHub  : KHAN ALEX
 
 [~] Tool  : Automatic WhatsApp Massage Sender
 
